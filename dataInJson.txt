@@ -1,0 +1,62 @@
+{
+  "0": [
+    "Evžen",
+    "Křemílek",
+    "Kávička",
+    "Slepice",
+    "Jahody",
+    "Kozel",
+    "Žížala",
+    "Knedlík"
+  ],
+  "1": [
+    "s Marunou",
+    "s Vochomůrkou",
+    "s mlékem",
+    "s kohoutem",
+    "s kuželkou",
+    "s kozou",
+    "s chobotem",
+    "s housenkou"
+  ],
+  "2": [
+    "cvičili",
+    "se probudili",
+    "popíjeli",
+    "pobíhali",
+    "šlapali zelí",
+    "si hráli",
+    "tancovali",
+    "plavali"
+  ],
+  "3": [
+    "v tělocvičně",
+    "v březové chaloupce",
+    "v kavárně",
+    "po dvoře",
+    "ve sklepě",
+    "na louce",
+    "na stole",
+    "v moři"
+  ],
+  "4": [
+    "v pondělí",
+    "v noci",
+    "o páté",
+    "za brzkého rána",
+    "dnes ráno",
+    "ráno",
+    "v poledne",
+    "v neděli"
+  ],
+  "5": [
+    "protože chtějí být fit.",
+    ", protože je vyrušil hluk",
+    ", protože jim chutná",
+    ", protože se chtěli proběhnout",
+    "protože jim chutná zelí",
+    "protože rádi skáčou",
+    "protože je to baví",
+    "protože rádi plavou"
+  ]
+}
